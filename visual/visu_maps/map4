@@ -1,0 +1,23 @@
+52
+##start
+start 650 450
+1 50 50
+2 50 850
+3 1250 850
+4 1250 50
+5 50 400
+6 1250 400
+##end
+end 650 350
+start-1
+start-2
+start-3
+start-4
+start-5
+start-6
+1-end
+2-end
+3-end
+4-end
+5-end
+6-end

@@ -1,0 +1,11 @@
+20
+##start
+start 500 500
+1 700 700
+2 500 700
+##end
+end 700 500
+start-1
+1-end
+start-2
+2-end
