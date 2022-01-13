@@ -1,2 +1,2 @@
 # lem_in
-Algorithm de path finding
+Path finding algorithm
